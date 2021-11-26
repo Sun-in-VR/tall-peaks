@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 8,
-        "description": "Allows mountains to generate heigher than y 255."
+        "description": "Allows mountains to generate higher than y 255."
     }
 }
