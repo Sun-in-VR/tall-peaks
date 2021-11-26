@@ -18,7 +18,7 @@ If the non-lite version seems too laggy, give the lite version a try!
 
 # Installation
 ## For Singleplayer
-  1. Download TallPeaks or TallPeaksLite.
+  1. Download TallPeaks or TallPeaksLite from the releases tab on the right.
   2. Begin creating a new world.
   3. Press on the button labeled 'Data Packs'
   4. Drag and drop the file you downloaded into the left column.
@@ -29,7 +29,7 @@ If the non-lite version seems too laggy, give the lite version a try!
   9. Enjoy your slightly taller mountains!
 ## For Servers
   1. Ensure that you have access to your server's files.
-  2. Download TallPeaks or TallPeaksLite.
+  2. Download TallPeaks or TallPeaksLite from the releases tab on the right.
   3. Open your world's folder (usually titled "world", create one titled "world" if it has not been created yet).
   4. Open or create a folder titled "datapacks".
   5. Move the file into this folder
